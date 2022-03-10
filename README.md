@@ -1,2 +1,2 @@
-# SoundWave
-Sound Wave simulation made for Discrete Systems Modelling at AGH UST 2021/2022.
+# Sound Wave
+Sound Wave simulation made for Modeling of Discrete Event Systems at AGH UST 2021/22.
